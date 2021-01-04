@@ -8,7 +8,7 @@ permalink: levy
 
 In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with section 1.2 and work to the end of the first chapter by the end of Hilary term.
 
-The schedule lists the material that participants are suggested to read before each session. Members of the reading group are encouraged to participate in presenting the material or solutions to exercises.
+The [schedule](#schedule) lists the material that participants are suggested to read before each session. Members of the reading group are encouraged to participate in presenting the material or solutions to exercises.
 
 # Prequisites
 
