@@ -3,4 +3,8 @@ layout: page
 title: About
 ---
 
-Hi and welcome to my personal page. I'm currently a PhD student (technically a DPhil student) at the University of Oxford. I'm supervised by Prof. Christina Goldschmidt and am based in the Statistics Department. I'm also a member of the Random Systems CDT and St. Hugh's College.
+<p style="text-align:center"><img align="center" src="/images/profile.png" width="200" height="200"></p>
+
+Hi and welcome to my site! To introduce myself, I'm a PhD student (technically a DPhil student) in the Random Systems CDT, based in the Oxford University Statistics Department, and supervised by Prof. Christina Goldschmidt. I'm also a member of St. Hugh's College.
+
+This website is intended as a central hub for my research, teaching and outreach activities.

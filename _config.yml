@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Zheneng Xie
-email: xie@maths.ac.uk
+email: xie@maths.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   My personal website for maths research, teaching and outreach.
 baseurl: "" # the subpath of your site, e.g. /blog

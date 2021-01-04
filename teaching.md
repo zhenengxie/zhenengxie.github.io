@@ -14,6 +14,6 @@ The course content is available [here](https://courses.maths.ox.ac.uk/node/49150
 
 # Past Teaching
 
-In the past I have taught
+Please find below a list of past teaching:
 - [B8.5 Graph Theory](https://courses.maths.ox.ac.uk/node/49141), TA, Michaelmas 2020
 - Prelim Probability Theory, TA, Michaelmas 2020
