@@ -35,7 +35,7 @@ This reading group is co-organised by [Terence Tsui](https://holungrandomcorner.
 
 # Schedule
 
-The following information can also be found in this Google Calendar. Note this schedule is subject to change depending on how much we cover in the actual sessions.
+The following information can also be found in this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWg4MzAzc21hYWhjdnFqYmpocnUxYjBxc3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Note this schedule is subject to change depending on how much we cover in the actual sessions.
 
 Week | Date | Pages | Topic | Exercises
 --- | --- | --- | --- | ---
