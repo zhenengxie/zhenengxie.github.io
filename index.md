@@ -12,7 +12,7 @@ This website is intended as a central hub for my research, teaching and outreach
 # Short CV
 
 - 2019--Present: DPhil in Statistics, University of Oxford
-- 2018--2019: MMath, Part III, Honours Pass with Distinction, University of Cambridge
-- 2015--2018: BA, Mathematical Tripos, Class I, University of Cambridge
+- 2018--2019: MMath, Honours Pass with Distinction, University of Cambridge
+- 2015--2018: BA in Mathematics, Class I, University of Cambridge
 
 A full CV is available upon request.
