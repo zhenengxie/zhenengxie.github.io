@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zheneng Xie
+title: Zheneng Xie's Stuff
+author: Zheneng Xie
 email: xie@maths.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   My personal website for maths research, teaching and outreach.
@@ -56,6 +57,7 @@ header_pages:
   - index.md
   - research.md
   - teaching.md
+  - outreach.md
 
 markdown: kramdown
 kramdown:
