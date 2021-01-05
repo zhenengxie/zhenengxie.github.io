@@ -6,13 +6,13 @@ permalink: levy
 
 # Information
 
-In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with section 1.2 and work to the end of the first chapter in Hilary term.
+In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with Section 1.2 and work to the end of the first chapter in Hilary term.
 
 The [schedule](#schedule) lists the material that participants are suggested to read before each session. Members of the reading group are encouraged to participate in presenting the material or solutions to exercises.
 
 # Prequisites
 
-A basic knowledge of measure theory and probability theory is needed. The material in Section 1.1 of the book serves as a good review of these topics. Familiarity with Brownian motion is helpful but not necessary.
+A basic knowledge of measure theory and probability theory is needed. The material in Section 1.1 of the book serves as a good review of these topics. Familiarity with Brownian motion is helpful but not essential.
 
 # Accessing the book
 
@@ -20,10 +20,10 @@ Members of Oxford Unversity can access the book online in a PDF format by follow
 
 1. Press the "Log in" button on the top right of [this page](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11)
 2. Choose "Log in via Shibboleth or Athens"
-3. Select "University of Oxford" as the Organization
+3. Select "University of Oxford" as the organization
 4. Sign in using your Oxford Single Sign-On details
 
-Below each chapter there should now be a green checkmark with "Access" written in green next to it. Then click on PDF to access the file for each chapter.
+Below each chapter there should now be a green checkmark with "Access" written in green next to it. Click on PDF to access the file for each chapter.
 
 # Sign up
 
@@ -35,9 +35,9 @@ This reading group is co-organised by [Terence Tsui](https://holungrandomcorner.
 
 # Schedule
 
-**Sessions are Mondays 13:00 to 14:00 starting Week 2 on Jan 25**
+**Sessions are on Monday from 13:00 to 14:00 starting Week 2 on Jan 25**
 
-The following information can also be found in this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWg4MzAzc21hYWhjdnFqYmpocnUxYjBxc3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Note this schedule is subject to change depending on how much we cover in the actual sessions.
+The following information can also be found in this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWg4MzAzc21hYWhjdnFqYmpocnUxYjBxc3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Note this schedule is subject to change depending on progress in the actual sessions.
 
 Week | Date | Pages | Topic | Exercises
 --- | --- | --- | --- | ---
@@ -52,4 +52,4 @@ Week | Date | Pages | Topic | Exercises
 
 # Further directions
 
-Next term we plan on continuing this reading group, looking at a exploring the further topics that we'll briefly read about in the last session. More details will be given before next term.
+Next term we plan on continuing this reading group looking at a exploring the further topics that we'll briefly read about in the last session, such as the Lévy-Itô decomposition, recurrence and transience and local times. More details will be given before next term.
