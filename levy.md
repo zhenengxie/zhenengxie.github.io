@@ -42,11 +42,11 @@ The following information can also be found in this [Google Calendar](https://ca
 Week | Date | Pages | Topic | Exercises
 --- | --- | --- | --- | ---
 2 | 25/01 | 21--28 (7 pages) | Introduction, convolution of measures and infinite divisibility | 1.2.4, 1.2.5, 1.2.7, 1.2.12
-3 | 01/01 | 28--33 (5 pages) | The Lévy--Khintchine formula | 1.2.13, 1.2.15, 1.2.16
+3 | 01/02 | 28--33 (5 pages) | The Lévy--Khintchine formula | 1.2.13, 1.2.15, 1.2.16
 4 | 08/02 | 33--39 (6 pages) | Stable random variables | 1.2.22, 1.2.23
 5 | 15/02 | 43--51 (8 pages) | Definition and examples of Lévy processes | 1.3.4, 1.3.5, 1.3.6
 6 | 22/02 | 52--56 (4 pages) | Subordinators | 1.3.16, 1.3.20
-7 | 01/02 | 57--62 (5 pages) | Subordinators continued | 1.3.26, 1.3.30
+7 | 01/03 | 57--62 (5 pages) | Subordinators continued | 1.3.26, 1.3.30
 8 | 08/03 | 62--67 (5 pages) | Convolution semigroups of probability measures | None
 9 | 15/03 | 67--78 (11 pages) | Introduction to further topics on Lévy processes | None
 
