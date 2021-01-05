@@ -6,7 +6,7 @@ permalink: levy
 
 # Information
 
-In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with section 1.2 and work to the end of the first chapter by the end of Hilary term.
+In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with section 1.2 and work to the end of the first chapter in Hilary term.
 
 The [schedule](#schedule) lists the material that participants are suggested to read before each session. Members of the reading group are encouraged to participate in presenting the material or solutions to exercises.
 
@@ -35,15 +35,21 @@ This reading group is co-organised by [Terence Tsui](https://holungrandomcorner.
 
 # Schedule
 
+**Sessions are Mondays 13:00 to 14:00 starting Week 2 on Jan 25**
+
 The following information can also be found in this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWg4MzAzc21hYWhjdnFqYmpocnUxYjBxc3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Note this schedule is subject to change depending on how much we cover in the actual sessions.
 
 Week | Date | Pages | Topic | Exercises
 --- | --- | --- | --- | ---
-1 | 25/01 | 21--28 (7 pages) | Introduction, convolution of measures and infinite divisibility | 1.2.4, 1.2.5, 1.2.7, 1.2.12
-2 | 01/01 | 28--33 (5 pages) | The Lévy--Khintchine formula | 1.2.13, 1.2.15, 1.2.16
-3 | 08/02 | 33--39 (6 pages) | Stable random variables | 1.2.22, 1.2.23
-4 | 15/02 | 43--51 (8 pages) | Definition and examples of Lévy processes | 1.3.4, 1.3.5, 1.3.6
-5 | 22/02 | 52--56 (4 pages) | Subordinators | 1.3.16, 1.3.20
-6 | 01/02 | 57--62 (5 pages) | Subordinators continued | 1.3.26, 1.3.30
-7 | 08/03 | 62--67 (5 pages) | Convolution semigroups of probability measures | None
-8 | 15/03 | 67--78 (11 pages) | Introduction to further topics on Lévy processes | None
+2 | 25/01 | 21--28 (7 pages) | Introduction, convolution of measures and infinite divisibility | 1.2.4, 1.2.5, 1.2.7, 1.2.12
+3 | 01/01 | 28--33 (5 pages) | The Lévy--Khintchine formula | 1.2.13, 1.2.15, 1.2.16
+4 | 08/02 | 33--39 (6 pages) | Stable random variables | 1.2.22, 1.2.23
+5 | 15/02 | 43--51 (8 pages) | Definition and examples of Lévy processes | 1.3.4, 1.3.5, 1.3.6
+6 | 22/02 | 52--56 (4 pages) | Subordinators | 1.3.16, 1.3.20
+7 | 01/02 | 57--62 (5 pages) | Subordinators continued | 1.3.26, 1.3.30
+8 | 08/03 | 62--67 (5 pages) | Convolution semigroups of probability measures | None
+9 | 15/03 | 67--78 (11 pages) | Introduction to further topics on Lévy processes | None
+
+# Further directions
+
+Next term we plan on continuing this reading group, looking at a exploring the further topics that we'll briefly read about in the last session. More details will be given before next term.
