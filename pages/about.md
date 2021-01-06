@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-![profile picture](/images/profile_small.png){: .align-center}
+![profile picture](/assets/images/profile.png){: .align-center}
 
 Hi and welcome to my site! To introduce myself, I'm a PhD student (technically a DPhil student) in the Random Systems CDT, based in the Oxford University Statistics Department, and supervised by Prof. Christina Goldschmidt. I'm also a member of St. Hugh's College.
 

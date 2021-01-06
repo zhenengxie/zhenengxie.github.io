@@ -28,7 +28,7 @@ words_per_minute: # 200
 mathjax:
   enable: enable # MathJax equations, e.g. true, false (default)
   combo: # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
-  tags: ams # "none", "ams" (default), "all"
+  tags: none # "none", "ams" (default), "all"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -92,16 +92,34 @@ defaults:
 # Site Author
 author:
   name: "Zheneng Xie"
-  picture: "/images/profile.png"
+  picture: "/assets/images/profile.png"
   email: xie@maths.ox.ac.uk
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: Email
+      url: mailto:xie@maths.ox.ac.uk
+      icon: fas fa-envelope
+    - title: Github
+      url: https://github.com/zhenengxie/
+      icon: fab fa-github
+    - title: Linkedin
+      url: https://www.linkedin.com/in/zheneng-xie
+      icon: fab fa-linkedin
+    - title: University
+      url: https://www.maths.ox.ac.uk/people/zheneng.xie
+      icon: fas fa-university
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Email
+    url: mailto:xie@maths.ox.ac.uk
+    icon: fas fa-envelope
+  - title: Github
+    url: https://github.com/zhenengxie/
+    icon: fab fa-github
+  - title: Linkedin
+    url: https://www.linkedin.com/in/zheneng-xie
+    icon: fab fa-linkedin
+  - title: University
+    url: https://www.maths.ox.ac.uk/people/zheneng.xie
+    icon: fas fa-university
