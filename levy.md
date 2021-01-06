@@ -12,7 +12,7 @@ The [schedule](#schedule) lists the material that participants are suggested to 
 
 # Prequisites
 
-A basic knowledge of measure theory and probability theory is needed. The material in Section 1.1 of the book serves as a good review of these topics. Familiarity with Brownian motion is helpful but not essential.
+A basic knowledge of measure and probability theory is needed. The material in Section 1.1 of the book serves as a good review of these topics. Familiarity with Brownian motion is helpful but not essential.
 
 # Accessing the book
 
@@ -23,7 +23,7 @@ Members of Oxford Unversity can access the book online in a PDF format by follow
 3. Select "University of Oxford" as the organization
 4. Sign in using your Oxford Single Sign-On details
 
-Below each chapter there should now be a green checkmark with "Access" written in green next to it. Click on PDF to access the file for each chapter.
+Below each chapter there should now be a green checkmark with "Access" written next to it. Click on PDF to access the file for each chapter.
 
 # Sign up
 
@@ -31,7 +31,7 @@ Please sign up using the form [here](https://forms.gle/NuX9gMVFpdGs37Qd8). Alter
 
 # Contact us
 
-This reading group is co-organised by [Terence Tsui](https://holungrandomcorner.wordpress.com/about-me/) and Zheneng Xie of the Statistics Department. Please contact us at [xie@maths.ox.ac.uk](mailto:xie@maths.ox.ac.uk) or [terence.tsui@maths.ox.ac.uk](mailto:terence.tsui@maths.ox.ac.uk) if there are any questions, suggestions or other feedback. Feedback can also be submitted anonymously [here](https://forms.gle/V9DUeZjkjURrSXBd7).
+This reading group is co-organised by [Terence Tsui](https://holungrandomcorner.wordpress.com/about-me/) and Zheneng Xie of the Oxford University Statistics Department. Please contact us at [xie@maths.ox.ac.uk](mailto:xie@maths.ox.ac.uk) or [terence.tsui@maths.ox.ac.uk](mailto:terence.tsui@maths.ox.ac.uk) if there are any questions. We also welcome suggestions or other feedback. Feedback can also be submitted anonymously [here](https://forms.gle/V9DUeZjkjURrSXBd7).
 
 # Schedule
 
