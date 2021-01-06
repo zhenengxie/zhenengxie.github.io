@@ -1,6 +1,7 @@
 ---
 title: "Strong, weak and weak star topologies"
 layout: post
+share: true
 ---
 
 Norms on finite dimensional spaces have a very nice feature: the unit ball is compact. In fact for the unit ball to be compact in a normed vector space, it is not only sufficient but necessary for the space to be finite dimensional. As soon as we are working with infinite dimensional spaces, we lose compactness. This is one of the motivations for the weak and weak star topologies.
@@ -20,5 +21,3 @@ So now the question is which functions do we still want to be continuous?
 # The weak topology
 
 Seen as we are in a vector space, a natural choice of functions are the linear functions $$V \to \mathbb R$$ which were already continuous with respect to the normed topologies.
-
-This is the weak topology, but is it weak enough?

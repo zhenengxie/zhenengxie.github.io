@@ -16,14 +16,14 @@ The course content is available [here](https://courses.maths.ox.ac.uk/node/49150
 
 **Deadlines are 12:00 the Friday before the class.**
 
-Class | Date | Deadline
+The first set of classes runs from 09:30 to 11:00 and second set of classes runs from 11:30 to 13:00 on the dates in the table below.
+
+Class | Date | Deadline Date
 --- | --- | ---
 1 | 02 Feb | 29 Feb
 2 | 16 Feb | 12 Feb
 3 | 02 Mar | 26 Feb
 4 | TBD | TBD
-
-The first set of classes runs from 09:30 to 11:00. The second set of classes runs from 11:30 to 13:00.
 
 # B8.5 Graph Theory, TA, Michaelmas 2020
 
