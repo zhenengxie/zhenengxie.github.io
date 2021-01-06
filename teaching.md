@@ -29,7 +29,7 @@ The first set of classes runs from 09:30 to 11:00. The second set of classes run
 
 The course content is available [here](https://courses.maths.ox.ac.uk/node/49141).
 
-**Deadline**: Friday 15 Jan, 12:00
+**Deadline**: Friday 15 Jan, 12:30
 
 **Class date**: Tuesday 19 Jan, 12:30--14:00
 
