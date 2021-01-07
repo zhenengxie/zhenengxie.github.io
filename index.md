@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
 
-Hello and welcome to my site! There's not much here at the moment but if I think of anything to blog about it will go below here.
+Hello and welcome to my site! There's not much here now but I'm hoping to add to it in future. Please find below the assorted things I wanted to post about.
