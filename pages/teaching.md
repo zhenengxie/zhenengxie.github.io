@@ -10,15 +10,15 @@ permalink: teaching
 
 The course content is available [here](https://courses.maths.ox.ac.uk/node/49135).
 
-**Deadlines are 14:00 the Friday before the class.**
+**Deadlines are 14:00 the Monday before the class.**
 
 Classes are 14:00 to 15:30 on the following dates.
 
 Class | Date | Deadline Date
 --- | --- | ---
-1 | 27 Jan | 22 Jan
-2 | 10 Feb | 06 Feb
-3 | 27 Feb | 19 Feb
+1 | Wed 27 Jan | Mon 25 Jan
+2 | Wed 10 Feb | Mon 08 Feb
+3 | Wed 24 Feb | Mon 22 Feb
 4 | TBD | TBD
 
 # SB3.1 Applied Probability Sets 1 and 2, TA, Hilary 2021
@@ -31,9 +31,9 @@ Set 1 runs from 09:30 to 11:00 and Set 2 runs from 11:30 to 13:00 on the dates i
 
 Class | Date | Deadline Date
 --- | --- | ---
-1 | 02 Feb | 29 Feb
-2 | 16 Feb | 12 Feb
-3 | 02 Mar | 26 Feb
+1 | Tue 02 Feb | Fri 29 Feb
+2 | Tue 16 Feb | Fri 12 Feb
+3 | Tue 02 Mar | Fri 26 Feb
 4 | TBD | TBD
 
 # B8.5 Graph Theory, TA, Michaelmas 2020
