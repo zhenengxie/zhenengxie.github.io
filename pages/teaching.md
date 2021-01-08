@@ -8,7 +8,18 @@ permalink: teaching
 
 # B8.4 Information Theory, TA, Hilary 2021
 
-The course content is available [here](https://courses.maths.ox.ac.uk/node/49135). Class scheduling and deadlines are to be determined.
+The course content is available [here](https://courses.maths.ox.ac.uk/node/49135).
+
+**Deadlines are 14:00 the Friday before the class.**
+
+Classes are 14:00 to 15:30 on the following dates.
+
+Class | Date | Deadline Date
+--- | --- | ---
+1 | 27 Jan | 22 Jan
+2 | 10 Feb | 06 Feb
+3 | 27 Feb | 19 Feb
+4 | TBD | TBD
 
 # SB3.1 Applied Probability, TA, Hilary 2021
 
