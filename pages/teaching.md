@@ -21,13 +21,13 @@ Class | Date | Deadline Date
 3 | 27 Feb | 19 Feb
 4 | TBD | TBD
 
-# SB3.1 Applied Probability, TA, Hilary 2021
+# SB3.1 Applied Probability Sets 1 and 2, TA, Hilary 2021
 
 The course content is available [here](https://courses.maths.ox.ac.uk/node/49150). 
 
 **Deadlines are 12:00 the Friday before the class.**
 
-The first set of classes runs from 09:30 to 11:00 and second set of classes runs from 11:30 to 13:00 on the dates in the table below.
+Set 1 runs from 09:30 to 11:00 and Set 2 runs from 11:30 to 13:00 on the dates in the table below.
 
 Class | Date | Deadline Date
 --- | --- | ---
