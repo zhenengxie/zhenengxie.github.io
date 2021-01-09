@@ -12,7 +12,7 @@ The course content is available [here](https://courses.maths.ox.ac.uk/node/49135
 
 **Deadlines are 14:00 the Monday before the class.**
 
-Classes are 14:00 to 15:30 on the following dates.
+Classes are 14:00 to 15:30 on the dates in the table below.
 
 Class | Date | Deadline Date
 --- | --- | ---
