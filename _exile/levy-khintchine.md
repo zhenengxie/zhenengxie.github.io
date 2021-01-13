@@ -50,18 +50,30 @@ Hence we see that $$X + Y \sim N(\mu_1 + \mu_2, \Sigma_1 + \Sigma_2)$$.
 
 ### Infinite divisibility of Gaussians
 
+
 ## Compound Poisson random variables
 
-### Relation to compound Poisson processes
+Let $$\lambda \geq 0$$ and $$\mu$$ be a probability measure on $$\R^d$$. Suppose $$N \sim \text{Poisson}(\lambda)$$ and let $$Z_1, Z_2, \ldots$$ be i.i.d. with law $$\mu$$ independently of $$N$$. Then
 
-An intuitive way to think about these processes is the following:
+$$X = \sum_{i=1}^N Z_i$$
 
-{: .notice--info}
-Jumps of size $$x$$ occur with infinitesimal rate $$\nu(\dif x)$$.
+is a compound Poisson random variable.
 
-### Sums of independent compound Poissons
+Rather than working with two parameters, we can combine $$\lambda$$ and $$\mu$$ into a single measure $$\nu = \lambda \mu$$. From $$\nu$$ we can recover $$\lambda$$ since $$\lambda = \nu(\R^d)$$. We then write $$\pi(\nu)$$ for the distribution of $$X$$.
 
-### Infinite divisibility of compound Poissons
+### Characteristic function of compound Poisson processes
+
+If $$X \sim \pi(\nu)$$ we can compute that
+
+$$ \E[e^{i u \cdot X}] = \exp\left\{ \int_{\R^d} (e^{iu \cdot x} - 1) \mu(\dif x) \right\}. $$
+
+### Sums of indepedent compound Poissons
+
+Suppose $$X_1 \sim \pi(\nu_1))$$ and $$X_2 \sim \pi(\nu_2)$$ where $$\nu_1$$ and $$\nu_2$$ are finite measures on $$\R^d$$. Suppose further that $$X_1$$ and $$X_2$$ are independent. Then checking the characteristic function of $$X_1 + X_2$$ shows that $$X_1 + X_2 \sim \pi(\nu)$$ where
+
+$$ \nu(A) = \nu_1(A) + \nu_2(A). $$
+
+
 
 # Lévy--Khintchine
 
@@ -74,13 +86,23 @@ For a Lévy triple $$(b, A, \nu)$$ let $$\phi_{b, A, \nu}(u) = \exp\left\{ \eta_
 
 $$
 \eta_{b, A, \nu}(u) =
-b \cdot u +
+i b \cdot u +
 \frac{1}{2} u \cdot A u +
 \int_{\abs{x} \geq 1} \left( e^{i x \cdot u}  - 1\right) \mathop{}\!\nu(\dif x) +
-\int_{\abs{x} < 1} \left( e^{i x \cdot u}  - 1 - x \cdot u \right) \mathop{}\!\nu(\dif x).
+\int_{\abs{x} < 1} \left( e^{i x \cdot u}  - 1 - i x \cdot u \right) \mathop{}\!\nu(\dif x).
 $$
 
 If $$X$$ is infinitely divisible random variable then the characterstic function of $$X$$ is $$\phi_{b, A, \nu}$$ for some Lévy triple $$(b, A, \nu)$$.
 
 Conversely for all Lévy triples, $$\phi_{b, A, \nu}$$ is the characteristic function of some infinitely divisible random variable.
 </div>
+
+The $$b \cdot u$$ and $$\tfrac{1}{2} u \cdot A u$$ terms are straightforwards to intepret, they correspond to the sum of a constant random variable with value $$b$$ and a $$N(0, A)$$ random variable.
+
+The last term is harder to understand. It almost looks like a compound Poisson random variable but with two differences. Firstly $$\nu$$ is not finite. Secondly there is a compensating term.
+
+First we examine the case where . Then in fact the compensating term is unecessary, we could rearrange $$\eta$$ as 
+
+thus we see the compensating term has been absorbed into $$()$$. $$\nu$$ is finite on any set not containing a neighbourhood of 0, thus $$\nu$$ is finite on for all $$n$$. Therefore by writing
+
+we see that the last term corresponds to an infinite sum of compound Poisson random variables.
