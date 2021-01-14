@@ -97,6 +97,8 @@ If $$X$$ is infinitely divisible random variable then the characterstic function
 Conversely for all Lévy triples, $$\phi_{b, A, \nu}$$ is the characteristic function of some infinitely divisible random variable.
 </div>
 
+## Analysis of terms
+
 The $$b \cdot u$$ and $$\tfrac{1}{2} u \cdot A u$$ terms are straightforwards to intepret, they correspond to the sum of a constant random variable with value $$b$$ and a $$N(0, A)$$ random variable.
 
 The last term is harder to understand. It almost looks like a compound Poisson random variable but with two differences. Firstly $$\nu$$ is not finite. Secondly there is a compensating term.
@@ -106,3 +108,5 @@ First we examine the case where . Then in fact the compensating term is unecessa
 thus we see the compensating term has been absorbed into $$()$$. $$\nu$$ is finite on any set not containing a neighbourhood of 0, thus $$\nu$$ is finite on for all $$n$$. Therefore by writing
 
 we see that the last term corresponds to an infinite sum of compound Poisson random variables.
+
+## Compound Poissons are enough

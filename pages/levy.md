@@ -4,6 +4,9 @@ layout: page
 permalink: levy
 ---
 
+{: .notice--info}
+**Next session (25 Jan 13:00)**: Read pages 21-28 covering convolution of measures, infinite divisibility and exercises 1.2.4, 1.2.4, 1.2.7 and 1.2.12.
+
 # Information
 
 In this reading group we will be following the second edition of ["Lévy Processes and Stochastic Calculus"](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11) by David Applebaum. We plan to start with Section 1.2 and work to the end of the first chapter in Hilary term.
