@@ -12,7 +12,7 @@ All times are in the 24 hour clock and in UK time.
 The course content is available [here](https://canvas.ox.ac.uk/courses/66133). 
 
 {: .notice--info}
-Deadlines are **9:30 (Set 1) and 11:30 (Set 2) Friday** before the class. Please hand your work in via Canvas in a PDF format with filename `Sheet_X_Surname_Forename.pdf`. For example `Sheet_1_Markov_Andrey.pdf`.
+Deadlines are **9:30 (Set 1) and 11:30 (Set 2) Friday** before the class. Please hand your work in via Canvas in a PDF format with filename `AP_SheetNumber_Surname_Forename.pdf`. For example `AP_1_Markov_Andrey.pdf`.
 
 Set 1 runs from 09:30 to 11:00 and Set 2 runs from 11:30 to 13:00 on the dates in the table below.
 
@@ -30,7 +30,7 @@ Classes will take place via Zoom. If you are in the class and don't have a link,
 The course content is available [here](https://courses.maths.ox.ac.uk/node/49135).
 
 {: .notice--info}
-Deadlines are **14:00 Monday** before the class. Please hand your work in via the shared OneDrive folders in a PDF format with filename `Sheet_X_Surname_Forename.pdf`. For example `Sheet_2_Shannon_Claude.pdf`.
+Deadlines are **14:00 Monday** before the class. Please hand your work in via the shared OneDrive folders in a PDF format with filename `IT_SheetNumber_Surname_Forename.pdf`. For example `IT_1_Shannon_Claude.pdf`.
 
 Classes are 14:00 to 15:30 on the dates in the table below.
 
