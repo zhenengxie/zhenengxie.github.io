@@ -43,16 +43,7 @@ Class | Date | Deadline Date
 
 Classes will take place via Teams. If you are in the class and are not invited, please contact me.
 
-# B8.5 Graph Theory, TA, Michaelmas 2020
+# Past teaching
 
-The course content is available [here](https://courses.maths.ox.ac.uk/node/49141).
-
-**Deadline**: Friday 15 Jan, 12:30
-
-**Class date**: Tuesday 19 Jan, 12:30--14:00
-
-# Prelim Probability Theory, TA, Michaelmas 2020
-
-**Deadline**: Thursday 14 Jan, 12:00
-
-**Class date**: Tuesday 19 Jan, 11:00--12:30
+- 2020 Michaelmas, B8.5 Graph Theory, TA
+- 2020 Michaelmas, Prelim Probability Theory, TA
