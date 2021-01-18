@@ -13,6 +13,8 @@ In this reading group we will be following the second edition of ["Lévy Process
 
 The [schedule](#schedule) lists the material that participants are suggested to read before each session. Members of the reading group are encouraged to participate in presenting the material or solutions to exercises.
 
+We are using Teams to conduct the session. Please email me or Terence if you've signed up and haven't been added to the team.
+
 # Prequisites
 
 A basic knowledge of measure and probability theory is needed. The material in Section 1.1 of the book serves as a good review of these topics. Familiarity with Brownian motion is helpful but not essential.

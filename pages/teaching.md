@@ -5,7 +5,13 @@ permalink: teaching
 ---
 
 {: .notice--warning}
-All times are in the 24 hour clock and in UK time.
+All times in UK time and written in a 24 hour format.
+
+# General tips on submitting work
+
+If you do not have access to a scanner, please consider using a phone app to properly crop your work. Please use the flash in order to prevent your phone casting a shadow. Personally I have used and can recommend Notebloc on Android. For iOS the Notes app has this feature, but I have not personally tried it.
+
+Please try not to hand in work last minute. This is already inadvisable with hard copies of your work, and is an even worse idea with digital submissions seen as you will need time to properly scan your work and time to upload your work.
 
 # SB3.1 Applied Probability Sets 1 and 2, TA, Hilary 2021
 
@@ -14,7 +20,9 @@ The course content is available [here](https://canvas.ox.ac.uk/courses/66133).
 {: .notice--info}
 Deadlines are **9:30 (Set 1) and 11:30 (Set 2) Friday** before the class. Please hand your work in via Canvas in a PDF format with filename `AP_SheetNumber_Surname_Forename.pdf`. For example `AP_1_Markov_Andrey.pdf`.
 
-Set 1 runs from 09:30 to 11:00 and Set 2 runs from 11:30 to 13:00 on the dates in the table below.
+The above method of submission is preferable but you can email me the work if there are issues.
+ 
+Set 1 runs from **09:30 to 11:00** and Set 2 runs from **11:30 to 13:00** on the dates in the table below.
 
 Class | Date | Deadline Date
 --- | --- | ---
@@ -32,7 +40,9 @@ The course content is available [here](https://courses.maths.ox.ac.uk/node/49135
 {: .notice--info}
 Deadlines are **14:00 Monday** before the class. Please hand your work in via the shared OneDrive folders in a PDF format with filename `IT_SheetNumber_Surname_Forename.pdf`. For example `IT_1_Shannon_Claude.pdf`.
 
-Classes are 14:00 to 15:30 on the dates in the table below.
+The above method of submission is preferable but you can email me the work if there are issues.
+
+Classes are **14:00 to 15:30** on the dates in the table below.
 
 Class | Date | Deadline Date
 --- | --- | ---
