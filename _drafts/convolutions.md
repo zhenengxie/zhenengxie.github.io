@@ -4,7 +4,7 @@ layout: post
 tags: [levy processes, probability theory]
 ---
 
-You may be familiar with the convolution of functions $$\R^d \to \R$$. The convolution of probability measures is defined similarly. This post aims to introduce the definition of such a convolution, why convolutions are useful and some basic properties of convolutions. We finish by setting up definining convolution $$n$$th roots, in preperation for talking about infinitely divisble random variables.
+This is going to be the first of a series of posts accompanying the Lévy processes reading groups. Core to the study of Lévy processes are infinitely divisible random variables, but before we define those we first need to understand what a convolution of probability measures is.
 
 Let's start with the definition. Let $$\mu_1$$ and $$\mu_2$$ be probability measures on $$\R^d$$. Then their *convolution* $$\mu_1 * \mu_2$$ is defined by
 
@@ -14,7 +14,7 @@ for all Borel sets $$A \subset \R^d$$.
 
 # Summing indepedent variables gives convolutions
 
-One of the main reasons we care about convolutions is that they give the law of a sum of independent random variables.
+The above definition isn't a very intuitive way of thinking about convolutions. The following theorem gives solid motivation as to why we define the convolution the way that we do.
 
 <div class="theorem">
 #### Theorem: (Addition of indepedent random variables and convolution)
@@ -23,7 +23,7 @@ Suppose that $$X_1$$ has law $$\mu_1$$ and $$X_2$$ has law $$\mu_2$$. Suppose fu
 </div>
 
 <div class="proof">
-Let $$A \subset \R^d$$ be a Borel subset. Then
+*Proof*: Let $$A \subset \R^d$$ be a Borel subset. Then
 
 $$
 \begin{align*}
@@ -58,7 +58,7 @@ Let $$\calM_1(\R^d)$$ denote the set of all probability measures on $$\R^d$$. Th
 </div>
 
 <div class="proof">
-Fix $$\mu_1$$, $$\mu_2$$ and $$\mu_1 \in \calM_1(\R^d)$$. Then there is a probability space on which we can define indepedent random variables $$X_1$$, $$X_2$$ and $$X_3$$ where $$X_i$$ has law $$\mu_i$$ for $$i = 1, 2, 3$$.
+*Proof*: Fix $$\mu_1$$, $$\mu_2$$ and $$\mu_1 \in \calM_1(\R^d)$$. Then there is a probability space on which we can define indepedent random variables $$X_1$$, $$X_2$$ and $$X_3$$ where $$X_i$$ has law $$\mu_i$$ for $$i = 1, 2, 3$$.
 
 Closure follows because $$\mu_1 * \mu_2$$ is the law of $$X_1 + X_2$$ and thus is a probability measure on $$\R^d$$.
 
@@ -92,7 +92,7 @@ Correspondingly we say a probability measure $$\nu$$ is the convolutional $$n$$t
 {: .notice--danger}
 Convolutional $$n$$th roots are, in general, neither guaranteed to exist nor unique.
 
-An important example where convolutional $$n$$th roots are guaranteed to exist and are unique are infinitely divisible measures, which we'll meet in future. For now we'll give some alternate characteristics of a convolution $$n$$th root.
+For example a Bernoulli random variable has no second convolution root. We will finish this post by stating a few equivalent conditions for $$\nu$$ to be the $$n$$th convolutional root of $$\mu$$.
 
 <div class="theorem">
 #### Theorem:
@@ -103,3 +103,7 @@ Let $$\mu$$ and $$\nu$$ be a probability measures on $$\R^d$$. Then the followin
 2. There exists i.i.d. random variables $$Y_1, \ldots, Y_n$$ with law $$\nu$$ such that $$\sum_{i=1}^n Y_i$$ has law $$\mu$$.
 3. The Fourier transform of $$\nu$$ is an $$n$$th root of the Fourier transform of $$\mu$$.
 </div>
+
+The equivalence of 1 and 2 follows from the first theorem. The equivalence of 2 and 3 follows from the fact that is two random variables are independent, the Fourier transform of their sum is the product of Fourier transforms of the individual random variables.
+
+The characterisation in terms of Fourier transforms is especially important. This is as the $$n$$root of a complex number is something we understand quite well, unlike the more abstract definition of a convoultional root. This will come into play when we talk about infinitely divisible random variables.
