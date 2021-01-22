@@ -31,7 +31,7 @@ Class | Date | Deadline Date
 3 | Tue 02 Mar | Fri 26 Feb
 4 | TBD | TBD
 
-Classes will take place via Zoom. If you are in the class and don't have a link, please contact me.
+Classes will take place via Zoom.
 
 # B8.4 Information Theory, TA, Hilary 2021
 
@@ -51,7 +51,7 @@ Class | Date | Deadline Date
 3 | Wed 24 Feb | Mon 22 Feb
 4 | TBD | TBD
 
-Classes will take place via Teams. If you are in the class and are not invited, please contact me.
+Classes will take place via Teams.
 
 # Past teaching
 
