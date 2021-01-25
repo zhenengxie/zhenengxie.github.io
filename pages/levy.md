@@ -5,7 +5,7 @@ permalink: levy
 ---
 
 {: .notice--info}
-**Next session (25 Jan 13:00)**: Read pages 21-28 covering convolution of measures, infinite divisibility and exercises 1.2.4, 1.2.4, 1.2.7 and 1.2.12.
+**Next session (1 Feb 13:00)**: Read pages 28-33 covering the Lévy--Khintchine formula and exercises 1.2.13, 1.2.15 and 1.2.16.
 
 # Information
 
@@ -46,7 +46,7 @@ The following information can also be found in this [Google Calendar](https://ca
 
 Week | Date | Pages | Topic | Exercises
 --- | --- | --- | --- | ---
-2 | 25/01 | 21--28 (7 pages) | Introduction, convolution of measures and infinite divisibility | 1.2.4, 1.2.5, 1.2.7, 1.2.12
+~~2~~ | ~~25/01~~ | ~~21--28 (7 pages)~~ | ~~Introduction, convolution of measures and infinite divisibility~~ | ~~1.2.4, 1.2.5, 1.2.7, 1.2.12~~
 3 | 01/02 | 28--33 (5 pages) | The Lévy--Khintchine formula | 1.2.13, 1.2.15, 1.2.16
 4 | 08/02 | 33--39 (6 pages) | Stable random variables | 1.2.22, 1.2.23
 5 | 15/02 | 43--51 (8 pages) | Definition and examples of Lévy processes | 1.3.4, 1.3.5, 1.3.6
