@@ -49,7 +49,7 @@ Class | Date | Deadline Date
 1 | Wed 27 Jan | Mon 25 Jan
 2 | Wed 10 Feb | Mon 08 Feb
 3 | Wed 24 Feb | Mon 22 Feb
-4 | TBD | TBD
+4 | Wed 08 Mar | Wed 08 Mar
 
 Classes will take place via Teams.
 
