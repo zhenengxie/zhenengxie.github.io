@@ -5,7 +5,7 @@ permalink: levy
 ---
 
 {: .notice--info}
-**Next session (08 Mar 13:00)**: Read pages 62-67 covering the convolution semigroups of probability measures.
+**Next Session:** Week 1 Trinity Term, exact date and time to be determined
 
 # Information
 
@@ -52,8 +52,7 @@ Week | Date | Pages | Topic | Exercises
 ~~5~~ | ~~15/02~~ | ~~43--51 (8 pages)~~ | [Definition and examples of Lévy processes](https://drive.google.com/file/d/1DvETrE1cIxCHw-Z0BRaqMcpobB2PY1UU/view?usp=sharing) | ~~1.3.4, 1.3.5, 1.3.6~~
 ~~6~~ | ~~22/02~~ | ~~52--56 (4 pages)~~ | [Subordinators](https://drive.google.com/file/d/1KGC9FzygGprXuwpqJnFiTAuWwVHzXpHQ/view?usp=sharing) | ~~1.3.16, 1.3.20~~
 ~~7~~ | ~~01/03~~ | ~~57--62 (5 pages)~~ | [Subordinators continued](https://drive.google.com/file/d/1BQczsr1_CLAgG6PwQDXGPiWdYgngfb54/view?usp=sharing) | ~~1.3.26, 1.3.30~~
-8 | 08/03 | 62--67 (5 pages) | [Convolution semigroups of probability measures](https://drive.google.com/file/d/1-Bq5TlgGX3RdnrxipkA4PQzw7DcscwGu/view?usp=sharing) | None
-9 | 15/03 | 67--78 (11 pages) | Introduction to further topics on Lévy processes | None
+~~8~~ | ~~08/03~~ | ~~62--67 (5 pages)~~ | [Convolution semigroups of probability measures](https://drive.google.com/file/d/1-Bq5TlgGX3RdnrxipkA4PQzw7DcscwGu/view?usp=sharing) | ~~None~~
 
 # Further directions
 
